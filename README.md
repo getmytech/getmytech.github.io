@@ -1,1 +1,1 @@
-# We engineer technology solutions for enterprises with an art of essentialism
+# LOOKING FOR A TOP CLOUD TECHNOLOGY PARTNER ?
