@@ -39,4 +39,4 @@ The cloud changes fast. You need cloud management that enhances business agility
 
 > getmytech.io@gmail.com
 >
-> Old No.7,New No.5,Venkatasamy Layout, New Siddhapudur, Coimbatore Coimbatore TN 641044 IN
+> old no.7,new no.5,venkatasamy layout, new siddhapudur, coimbatore TN 641044 IN
