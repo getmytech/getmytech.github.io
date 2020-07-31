@@ -35,8 +35,6 @@ The cloud changes fast. You need cloud management that enhances business agility
 `azure` `aws` `google cloud platform` `redis` `elastic search` `grafana` `prometheus` `terraform` `ansible` `microservices` `kibana` `influxdb` `graphql` `REST` `api` `kubernetes` `helm` `docker`
 
 * * *
-&copy; 2020 GETMYTECH SOLUTIONS LLP
-
 > getmytech.io@gmail.com
 >
 > old no.7,new no.5,venkatasamy layout, new siddhapudur, coimbatore TN 641044 IN
