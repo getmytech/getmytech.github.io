@@ -32,4 +32,5 @@ The cloud changes fast. You need cloud management that enhances business agility
 - Keep costs in-line with budget
 - Use predictive insights to proactively manage cloud ops
 
+* * *
 `azure` `aws` `google cloud platform` `redis` `elastic search` `grafana` `prometheus` `terraform` `ansible` `microservices` `kibana` `influxdb` `graphql` `REST` `api` `kubernetes` `helm` `docker`
