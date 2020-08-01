@@ -12,7 +12,7 @@ We advise on the best migration approach for your enterprise, from any environme
 
 Our end-to-end approach provides organizations a secure, repeatable and scalable path to the cloud. It can reduce migration errors by up to 25%, improve time to insight by up to 25% and deliver application modernization with up to 50% less effort.
 
-### Cloud application development
+### Cloud applications
 
 We help to accelerate innovation, achieve faster time-to-market and drive revenue growth.
 
